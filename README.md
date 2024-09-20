@@ -3,9 +3,7 @@
 ### This is a weather app built with React. It allows users to search for a location and get the current weather conditions.
 
 
-## 🌐 Click on the Image 
 
-<a href="https://omraj0.github.io/Weather-App/">![Demo](Image.png)</a>
 
 
 ## 🌟 Features 
